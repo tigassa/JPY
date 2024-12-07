@@ -82,7 +82,7 @@
                     </button>
                 </div>
                 <div class="hidden md:flex items-center space-x-8 space-x-reverse">
-                    <a href="index.php" class="nav-link py-4 px-2 text-gray-700 hover:text-blue-600 text-white">الرئيسية</a>
+                    <a href="index.html" class="nav-link py-4 px-2 text-gray-700 hover:text-blue-600 text-white">الرئيسية</a>
                     <a href="branches.php" class="nav-link py-4 px-2 text-gray-700 hover:text-blue-600 text-white">الفروع</a>
                     <a href="https://aljazeerah.com/contact"
                         class="nav-link py-4 px-2 text-gray-700 hover:text-blue-600 text-white">التواصل</a>
@@ -91,7 +91,7 @@
             </div>
             <!-- Mobile Menu -->
             <div id="mobile-menu" class="mobile-menu">
-                <a href="index.php" class="block py-2 px-4 text-gray-700 hover:text-blue-600 text-white">الرئيسية</a>
+                <a href="index.html" class="block py-2 px-4 text-gray-700 hover:text-blue-600 text-white">الرئيسية</a>
                 <a href="branches.php" class="block py-2 px-4 text-gray-700 hover:text-blue-600 text-white">الفروع</a>
                 <a href="https://aljazeerah.com/contact"
                     class="block py-2 px-4 text-gray-700 hover:text-blue-600 text-white">التواصل</a>
